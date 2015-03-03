@@ -10,4 +10,4 @@ Here a couple of images:
 <IMG URL="https://cloud.githubusercontent.com/assets/3471396/6460611/e4dd6d44-c198-11e4-9827-afe999f8b9e4.jpg"/>
 
 And here the current prototype:
-<IMG URL="https://cloud.githubusercontent.com/assets/3471396/6460561/6f2df852-c198-11e4-8fa9-9cec9e29abd0.jpg">
+https://cloud.githubusercontent.com/assets/3471396/6460561/6f2df852-c198-11e4-8fa9-9cec9e29abd0.jpg
