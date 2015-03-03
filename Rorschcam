@@ -1,1 +1,1 @@
-sudo python /home/pi/camera/rorschcam.py
+sudo python /home/pi/rorschcam/rorschcam.py
